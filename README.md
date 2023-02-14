@@ -57,7 +57,7 @@ The goal of this Exploratory Data Analysis (EDA) section is to gain initial insi
 
   Based on our analysis, we have identified a range of factors that contribute to car crashes, including driver behavior, road conditions, weather conditions, time of day, and other relevant variables. By understanding the relative importance of these factors and their interactions, we have been able to develop practical solutions to reduce the frequency and severity of car crashes in Chicago.
 
-![image](confusion.png)
+![image](https://github.com/gibwanjau0/Chicago-Car-Crash-Project/blob/main/images/confusion.png)
 
 
 ## 7.CONCLUSIONS
