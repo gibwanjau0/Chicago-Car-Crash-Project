@@ -72,6 +72,9 @@ In conclusion, this project has provided a comprehensive analysis of car crashes
 ## 9.REPOSITORY GUIDE
 
 The data report can be found [here](https://docs.google.com/document/d/1BDxcGeomrfN5Sx4lSDdPk0nKl0unV7odYe1_wwbMlu8/edit?usp=sharing)
+
 The dataset used can be found [here](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3)
+
 The notebook for this project can be found [here](https://github.com/gibwanjau0/Chicago-Car-Crash-Project/blob/main/CHICAGO%20CAR%20CRASHES%20PREJECT.ipynb)
+
 The presentation slides for the project can be found [here](https://www.canva.com/design/DAFaWbTFS1s/g70LfXLV4owc1bTR8BCZ8A/edit?utm_content=DAFaWbTFS1s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
