@@ -2,7 +2,7 @@
 
 # chicago car crashes prediction using machine learning
 
-[image](https://www.istockphoto.com/photos/wrecked-car)
+[image](istockphoto-451333971-612x612.jpg)
 
 # 1. INTRDUCTION
 
@@ -49,13 +49,15 @@ Before building the predictive model, the data will be thoroughly reviewed to ga
 
 The goal of this Exploratory Data Analysis (EDA) section is to gain initial insights into the data on car crashes in Chicago and identify patterns, relationships, and trends that can guide further analysis. The following analysis was performed using a combination of graphical and statistical techniques:
 
-[image]()
+[image](heatmap.png)
 
 ## 6.Data Interpretation
 
   this project, we analyzed car crashes in the city of Chicago with the goal of understanding the factors that contribute to their frequency and severity. Our findings provide valuable insights into the root causes of car crashes and the trends and patterns of their occurrence in different regions and neighborhoods of the city.
 
   Based on our analysis, we have identified a range of factors that contribute to car crashes, including driver behavior, road conditions, weather conditions, time of day, and other relevant variables. By understanding the relative importance of these factors and their interactions, we have been able to develop practical solutions to reduce the frequency and severity of car crashes in Chicago.
+
+[image](confusion.png)
 
 
 ## 7.CONCLUSIONS
